@@ -13,10 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\크레인 인형뽑기 게임">
+      <UniqueIdentifier>{72131d71-4bd8-43f8-960b-340257ab1826}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\완주하지 못한 선수">
+      <UniqueIdentifier>{fab5a2ab-68bc-42ba-9007-9b0739815458}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="크레인 인형뽑기 게임.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\크레인 인형뽑기 게임</Filter>
+    </ClCompile>
+    <ClCompile Include="완주하지 못한 선수.cpp">
+      <Filter>소스 파일\완주하지 못한 선수</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
